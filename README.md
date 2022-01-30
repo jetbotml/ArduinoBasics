@@ -1,7 +1,7 @@
 # Arduino Basics
 
 
-## Getting Started Basics
+## Getting Started Basics (From Sparkfun tutorials)
 1. [Analog vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 1. [What is a Circuit?](https://learn.sparkfun.com/tutorials/what-is-a-circuit)
 1. [Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
