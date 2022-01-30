@@ -15,6 +15,6 @@
 1. [Arduino Uno Board Anatomy](https://docs.arduino.cc/tutorials/uno-rev3/BoardAnatomy)
 1. [UNO R3](https://docs.arduino.cc/hardware/uno-rev3)
 
-## Programming
+## Programming - Getting Started
 1. [Blink built-in LED on arduino UNO R3](https://create.arduino.cc/projecthub/giraffe/blink-built-in-led-on-arduino-uno-r3-680249)
 1. [Built-In Examples](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
